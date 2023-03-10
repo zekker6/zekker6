@@ -1,2 +1,2 @@
-[![Visitors](https://p-badge.zekker-dev.tk/github/zekker6)](https://p-badge.zekker-dev.tk/)
+[![Visitors](https://p-badge.zekker-dev.tk/github/zekker6.svg)](https://p-badge.zekker-dev.tk/)
 
